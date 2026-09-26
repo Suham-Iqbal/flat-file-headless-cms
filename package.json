@@ -1,29 +1,29 @@
 {
-  "name": "flat-file-headless-cms",
-  "version": "1.0.0",
-  "description": "Simple flat-file headless CMS with GitHub storage",
-  "main": "index.js",
-  "scripts": {
-    "build": "echo 'Build completed'",
-    "dev": "netlify dev",
-    "start": "netlify dev"
-  },
-  "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "jsonwebtoken": "^9.0.2",
-    "marked": "^9.1.6",
-    "slugify": "^1.6.6",
-    "axios": "^1.6.0"
-  },
-  "devDependencies": {
-    "netlify-cli": "^17.0.0"
-  },
-  "keywords": [
-    "headless-cms",
-    "flat-file",
-    "netlify",
-    "github"
-  ],
-  "author": "Your Name",
-  "license": "MIT"
+    "name":  "flat-file-headless-cms",
+    "version":  "1.0.0",
+    "description":  "Simple flat-file headless CMS with GitHub storage",
+    "main":  "index.js",
+    "scripts":  {
+                    "build":  "echo \u0027Build completed\u0027",
+                    "dev":  "netlify dev",
+                    "start":  "netlify dev"
+                },
+    "dependencies":  {
+                         "bcryptjs":  "^2.4.3",
+                         "jsonwebtoken":  "^9.0.2",
+                         "marked":  "^9.1.6",
+                         "slugify":  "^1.6.6",
+                         "axios":  "^1.6.0"
+                     },
+    "devDependencies":  {
+                            "netlify-cli":  "^17.0.0"
+                        },
+    "keywords":  [
+                     "headless-cms",
+                     "flat-file",
+                     "netlify",
+                     "github"
+                 ],
+    "author":  "Suham Iqbal Khan",
+    "license":  "MIT"
 }
